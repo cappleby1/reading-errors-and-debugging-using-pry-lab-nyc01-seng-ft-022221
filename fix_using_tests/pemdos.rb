@@ -6,7 +6,7 @@ def snake_it_up(string)
   #binding.pry
   if string[0] == "s"
     "ssssssssss" + string
-  binding.pry
+  #binding.pry
   else
     string
   end
